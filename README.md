@@ -7,6 +7,7 @@
 * [2021/04/26] WesCal is created as a project for [WesHack](https://www.weshack.org/)
 * [2021/07/01] WesCal is hosted on Heroku and can be accessed [here](https://wescal.tech/)
 * [2021/12/26] WesCal is now a extension and can be found on [Chrome Web Store](https://chrome.google.com/webstore/detail/wescal/hmagkpiecncbialoehammnfdkidmmlef?hl=en&authuser=0)
+* [2022/01/06] Update date in response to Wesleyan delaying the start of spring semester
 
 ## Work In Progress 
 - Intergration with RateMyProfessor 
